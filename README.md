@@ -17,7 +17,7 @@ The code book includes the following information:
 =========================================
 
 -  features_info: Shows information about the variables used in the analysis.
--  description of all variablea and summaries calculated
+-  description of all variables and summaries calculated
 
 The analysis undertaken by run_analysis.R script does the following:
 =========================================
